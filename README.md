@@ -7,7 +7,7 @@
 <!-- 强制换行，防止 GitHub Markdown 阻断 -->
 <!-- -->
 
-> [Qianfeng Yang](https://ncfjd.github.io/)* <sup>1</sup>, [Xiang Chen](https://cschenxiang.github.io/)* <sup>2</sup>, [Pengpeng Li](https://scholar.google.com/citations?user=Y-VG6gMAAAAJ&hl=zh-CN&oi=sra) <sup>2</sup>, [Qiyuan Guan](https://guanqiyuan.github.io/)<sup>1</sup>, Guiyue Jin <sup>1</sup>, Jiyu Jin <sup>1</sup>  
+> [Qianfeng Yang](https://qianfengy.github.io/)* <sup>1</sup>, [Xiang Chen](https://cschenxiang.github.io/)* <sup>2</sup>, [Pengpeng Li](https://scholar.google.com/citations?user=Y-VG6gMAAAAJ&hl=zh-CN&oi=sra) <sup>2</sup>, [Qiyuan Guan](https://guanqiyuan.github.io/)<sup>1</sup>, Guiyue Jin <sup>1</sup>, Jiyu Jin <sup>1</sup>  
 > Dalian Polytechnic University<sup>1</sup>, Nanjing University of Science and Technology<sup>2</sup>
 
 > [[Paper](http://arxiv.org/abs/2511.06734)]
